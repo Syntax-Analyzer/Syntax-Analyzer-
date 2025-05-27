@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ayush-Rawat-9.github.io/Syntax-Analyzer-CD",
+  "homepage": "https://Team-YinYan-PBL-6th-sem.github.io/Syntax-Analyzer-CD",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
